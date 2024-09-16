@@ -53,7 +53,9 @@ c.パラメーターを100個まで保存しておけます。<br>
 　<br>
 ![367869898-80ef7301-f9c9-4df9-8641-f5135b5d4a5c](https://github.com/user-attachments/assets/bfaf0c5b-ebf4-4646-8f38-9c217c459d02)
 
-最新のffmpegバイナリを同梱しています。ライセンスに基づきソースコードへのリンクを貼っています。<br>
+最新のffmpegバイナリを同梱しています。ライセンスに基づきソースコードへのリンクを貼っています。<br>ffmpeg自体は``LGPLv3``でライセンスされています。
+
+<br>
 ffmpegのソースコード<br>
 https://github.com/FFmpeg/FFmpeg　<br>
 https://ffmpeg.org/download.html<br>
