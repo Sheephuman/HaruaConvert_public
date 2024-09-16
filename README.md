@@ -60,6 +60,12 @@ ffmpegのソースコード<br>
 https://github.com/FFmpeg/FFmpeg　<br>
 https://ffmpeg.org/download.html<br>
 
+# ffmpegについて
+## 使用条件
+FFmpegの使用に関する条件は、ライセンス文書に明記されています。ライセンスの詳細については、[LGPLライセンスの公式ページ](https://www.gnu.org/licenses/lgpl-3.0.html)をご参照ください。
+## 免責事項
+FFmpegは無償で提供されており、著作権者または提供者は、FFmpegの使用に関連するいかなる保証も行いません。ソフトウェアの使用に際して生じるいかなる問題についても責任を負いませんので、あらかじめご了承ください。
+
 # 今後の更新予定<br>
 ・任意の画像でWaterMarkを付けられるようにする
 <br>
