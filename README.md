@@ -50,7 +50,8 @@ c.パラメーターを100個まで保存しておけます。<br>
 
 # 最近の更新
 ・パラメータ組み立て機能の追加　作りかけなのでちょっと不便な点もあるかもしれないです<br>
-![image](https://github.com/user-attachments/assets/80ef7301-f9c9-4df9-8641-f5135b5d4a5c)　<br>
+　<br>
+![367869898-80ef7301-f9c9-4df9-8641-f5135b5d4a5c](https://github.com/user-attachments/assets/bfaf0c5b-ebf4-4646-8f38-9c217c459d02)
 
 最新のffmpegバイナリを同梱しています。ライセンスに基づきソースコードへのリンクを貼っています。<br>
 ffmpegのソースコード<br>
