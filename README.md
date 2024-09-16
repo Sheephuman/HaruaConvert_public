@@ -38,10 +38,10 @@ c.パラメーターを100個まで保存しておけます。<br>
 4.bitrateを指定する事で、動画のサイズ圧縮を可能にします<br>
 　→ソース動画を読み込むとbitrateなどの情報が出るようになっています。表示されたbitrate以下の数を指定してください。<br>
  　　最低でも500k以上を指定した方が画質を維持出来ます。<br>
-  →簡易の動画Codec情報閲覧ツールとしても使えなくもないです。
+  →簡易の動画Codec情報閲覧ツールとしても使えなくもないです。<br>
 
 
-2024/8/17　開発版
+2024/8/17　開発版<br>
 　
 ## Download
 
@@ -49,13 +49,13 @@ c.パラメーターを100個まで保存しておけます。<br>
 
 
 # 最近の更新
-・パラメータ組み立て機能の追加　作りかけなのでちょっと不便な点もあるかもしれないです
-![image](https://github.com/user-attachments/assets/80ef7301-f9c9-4df9-8641-f5135b5d4a5c)
+・パラメータ組み立て機能の追加　作りかけなのでちょっと不便な点もあるかもしれないです<br>
+![image](https://github.com/user-attachments/assets/80ef7301-f9c9-4df9-8641-f5135b5d4a5c)　<br>
 
 最新のffmpegバイナリを同梱しています。ライセンスに基づきソースコードへのリンクを貼っています。<br>
 ffmpegのソースコード<br>
 https://github.com/FFmpeg/FFmpeg　<br>
-https://ffmpeg.org/download.html
+https://ffmpeg.org/download.html<br>
 
 # 今後の更新予定<br>
 ・任意の画像でWaterMarkを付けられるようにする
