@@ -42,9 +42,9 @@ c.パラメーターを100個まで保存しておけます。<br>
 
 2024/8/17　開発版
 　
-## Download the Application
+## Download
 
-[暫定的な開発版(v1.1.0-alpha)]([https://github.com/Sheephuman/HaruaConvert/releases/tag/v1.1.0-alpha](https://github.com/Sheephuman/HaruaConvert_public/releases/tag/TestVersion)) of the application.
+[暫定的な開発版(v1.1.0-alpha)](https://github.com/Sheephuman/HaruaConvert_public/releases/tag/TestVersion)) 
 
 
 # 最近の更新
