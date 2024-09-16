@@ -15,7 +15,8 @@ aviutlのLog表示の挙動を取り入れてます<br>
 機能の概要<br>
 a.ドラッグ&ドロップで動画をTwitter（X）に投稿可能な動画ファイルとして出力します。<br>
 　-b:v 1200k -codec:v h264 -vf yadif=0:-1:1 -pix_fmt yuv420p -acodec aac -y -threads 2<br>
-h264とvf yadif=0:-1:1　がポイントらしいです。
+h264とvf yadif=0:-1:1　がポイントらしいです。<br>
+
 ![285221377-f659886e-615e-410b-8055-225ecf9d745f](https://github.com/user-attachments/assets/a9e821a9-a893-447f-a383-9e57b1ae7237)
 
 
