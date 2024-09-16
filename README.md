@@ -1,9 +1,9 @@
 # このソフトウェアについて
-
-カジュアルな外観（かなり多分）のffmpegフロントエンドです
-砂雲空風氏作成のキャラクターによる**同人ウェア**です
-Twitter:https://x.com/shiyokatadragon
-pixsiv:https://www.pixiv.net/users/3998554
+<br>
+カジュアルな外観（かなり多分）のffmpegフロントエンドです<br>
+砂雲空風氏作成のキャラクターによる**同人ウェア**です<br>
+Twitter:https://x.com/shiyokatadragon<br>
+pixsiv:https://www.pixiv.net/users/3998554<br>
 
 WPF/C# で制作しています。<br>
 aviutlのLog表示の挙動を取り入れてます<br>
