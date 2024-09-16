@@ -1,4 +1,4 @@
-# このソフトウェアについて
+*# このソフトウェアについて
 
 カジュアルな外観（かなり多分）のffmpegフロントエンドです
 WPF/C# で制作しています。<br>
@@ -11,8 +11,9 @@ aviutlのLog表示の挙動を取り入れてます<br>
 a.ドラッグ&ドロップで動画をTwitter（X）に投稿可能な動画ファイルとして出力します。<br>
 　-b:v 1200k -codec:v h264 -vf yadif=0:-1:1 -pix_fmt yuv420p -acodec aac -y -threads 2<br>
 h264とvf yadif=0:-1:1　がポイントらしいです。
+![285221377-f659886e-615e-410b-8055-225ecf9d745f](https://github.com/user-attachments/assets/a9e821a9-a893-447f-a383-9e57b1ae7237)
 
-![スクリーンショット 2023-11-23 223057](https://github.com/Sheephuman/HaruaConvert/assets/34499259/f659886e-615e-410b-8055-225ecf9d745f)
+
 
 <br>
 パラメータは公開されており、好みのパラメータに差し替え可能です。
@@ -23,7 +24,8 @@ b.ffmpegに渡すパラメーターを任意に変更出来るため、画像出
 <br>
 c.パラメーターを100個まで保存しておけます。<br>
 
-![スクリーンショット 2023-11-23 223259](https://github.com/Sheephuman/HaruaConvert/assets/34499259/1941a8df-8f37-4589-b66f-b299b215d6ae)
+![285222181-1941a8df-8f37-4589-b66f-b299b215d6ae](https://github.com/user-attachments/assets/8d1a0782-e3cc-4b70-a926-97df4a303596)
+
 
 <br>
 
@@ -44,7 +46,10 @@ c.パラメーターを100個まで保存しておけます。<br>
 ・パラメータ組み立て機能の追加　作りかけなのでちょっと不便な点もあるかもしれないです
 ![image](https://github.com/user-attachments/assets/80ef7301-f9c9-4df9-8641-f5135b5d4a5c)
 
-
+最新のffmpegバイナリを同梱しています。ライセンスに基づきソースコードへのリンクを貼っています。
+ffmpegのソースコード
+https://github.com/FFmpeg/FFmpeg
+https://ffmpeg.org/download.html
 
 # 今後の更新予定<br>
 ・任意の画像でWaterMarkを付けられるようにする
