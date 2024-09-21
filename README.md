@@ -19,8 +19,8 @@ aviutlのLog表示の挙動を取り入れてます<br>
 a.ドラッグ&ドロップで動画をTwitter（X）に投稿可能な動画ファイルとして出力します。<br>
 　-b:v 1200k -codec:v h264 -vf yadif=0:-1:1 -pix_fmt yuv420p -acodec aac -y -threads 2<br>
 h264とvf yadif=0:-1:1　がポイントらしいです。<br>
-
-今は-b:v 700k **-codec:v libx265** -vf yadif=0:-1:1 -pix_fmt yuv420p -acodec aac -y -threads 2
+<br>
+今は-b:v 700k **-codec:v libx265** -vf yadif=0:-1:1 -pix_fmt yuv420p -acodec aac -y -threads 2<br>
 libx265の使用がおすすめ。高圧縮率・高画質です
 
 
