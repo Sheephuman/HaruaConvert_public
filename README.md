@@ -13,6 +13,7 @@ WPF/C# で制作しています。<br>
 aviutlのLog表示の挙動を取り入れてます<br>
 
 元ネタは　Twitter用に動画変換するヤツ([2016_twitter_convert](https://cloth.moe/2016_twitter_convert)　)（2019）　で、ffmpegに渡すパラメータを随時変更出来、bitrate指定により動画圧縮まで可能にします。
+~~最近も誰かに言われたけど別にバグだらけという訳ではない(笑)~~
 
 <br>
 機能の概要<br>
@@ -23,9 +24,7 @@ h264とvf yadif=0:-1:1　がポイントらしいです。<br>
 <br>今は-b:v 700k **-codec:v libx265** -vf yadif=0:-1:1 -pix_fmt yuv420p -acodec aac -y -threads 2<br><br>
 libx265の使用がおすすめ。高圧縮率・高画質です
 
-
-![285221377-f659886e-615e-410b-8055-225ecf9d745f](https://github.com/user-attachments/assets/a9e821a9-a893-447f-a383-9e57b1ae7237)
-
+![image](https://github.com/user-attachments/assets/06cf0cc7-eb18-40a3-9c2c-c00b546119bc)
 
 
 <br>
@@ -37,7 +36,7 @@ b.ffmpegに渡すパラメーターを任意に変更出来るため、画像出
 <br>
 c.パラメーターを100個まで保存しておけます。<br>
 
-![285222181-1941a8df-8f37-4589-b66f-b299b215d6ae](https://github.com/user-attachments/assets/8d1a0782-e3cc-4b70-a926-97df4a303596)
+![image](https://github.com/user-attachments/assets/f1c6d41f-d48a-494d-b97a-3300b44cca1e)
 
 
 <br>
@@ -57,9 +56,12 @@ c.パラメーターを100個まで保存しておけます。<br>
 
 
 # 最近の更新
-・パラメータ組み立て機能の追加　作りかけなのでちょっと不便な点もあるかもしれないです<br>
-　<br>
-![367869898-80ef7301-f9c9-4df9-8641-f5135b5d4a5c](https://github.com/user-attachments/assets/bfaf0c5b-ebf4-4646-8f38-9c217c459d02)
+・パラメータ組み立て機能の追加　<br>
+Codec取得はffmpeg.exeにコマンドラインを流して行っています。<br>
+性能が高いCodecを使えるように厳選しました（つもり）<br>
+　<br>![image](https://github.com/user-attachments/assets/f4e47872-ec97-4abe-b584-934fd683bbf7)
+
+
 
 最新のffmpegバイナリを同梱しています。ライセンスに基づきソースコードへのリンクを貼っています。<br>ffmpeg自体は``LGPLv3``でライセンスされています。
 
