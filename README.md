@@ -8,11 +8,16 @@ pixsiv:https://www.pixiv.net/users/3998554<br>
 
 著作権は砂雲氏にあるので、**内部の画像素材の再利用を一切禁じます。**
 
-
+# 動作環境
+Windows10以降、**.net Framework8以降**がインストールされている環境。<br>
+<br>
+フレームワーク：https://dotnet.microsoft.com/ja-jp/download/dotnet/8.0#:~:text=.NET%208.0%20d<br>
+フレームワーク不要の自己完結型も用意するつもりです（ファイルサイズがデカい）。<br>
+<br>
 WPF/C# で制作しています。<br>
 aviutlのLog表示の挙動を取り入れてます<br>
 
-元ネタは　Twitter用に動画変換するヤツ([2016_twitter_convert](https://cloth.moe/2016_twitter_convert)　)（2019）　で、ffmpegに渡すパラメータを随時変更出来、bitrate指定により動画圧縮まで可能にします。
+元ネタは　Twitter用に動画変換するヤツ([2016_twitter_convert](https://cloth.moe/2016_twitter_convert))（2019）　で、ffmpegに渡すパラメータを随時変更出来、bitrate指定により動画圧縮まで可能にします。
 ~~最近も誰かに言われたけど別にバグだらけという訳ではない(笑)~~
 
 <br>
