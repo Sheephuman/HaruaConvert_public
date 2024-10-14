@@ -73,6 +73,8 @@ Codec取得はffmpeg.exeにコマンドラインを流して行っています�
 性能が高いCodecを使えるように厳選しました（つもり）<br>
 　<br>![image](https://github.com/user-attachments/assets/f4e47872-ec97-4abe-b584-934fd683bbf7)
 
+10/14
+  ffmpeg用に渡すオプションの"-i"  "-y"　を不要にしました。
 
 
 最新のffmpegバイナリを同梱しています。ライセンスに基づきソースコードへのリンクを貼っています。<br>ffmpeg自体は``LGPLv3``でライセンスされています。
