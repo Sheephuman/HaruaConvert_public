@@ -12,6 +12,8 @@ pixsiv:https://www.pixiv.net/users/3998554<br>
 Windows10以降、**.net Framework8以降**がインストールされている環境。<br>
 <br>
 フレームワーク：https://dotnet.microsoft.com/ja-jp/download/dotnet/8.0#:~:text=.NET%208.0%20d<br>
+SDK 8.0.403for Windowsのダウンロード(x64)：https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/sdk-8.0.403-windows-x64-installer
+
 フレームワーク不要の自己完結型も用意するつもりです（ファイルサイズがデカい）。<br>
 <br>
 WPF/C# で制作しています。<br>
