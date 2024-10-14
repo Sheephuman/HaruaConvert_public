@@ -59,7 +59,7 @@ c.パラメーターを100個まで保存しておけます。<br>
 　
 ## Download
 
-[暫定的な開発版(v1.1.0-alpha)](https://github.com/Sheephuman/HaruaConvert_public/releases/tag/TestVersion)) 
+[Stable Version(v1.5.0)](HaruaConvert.2024-10-14.zip)](https://github.com/Sheephuman/HaruaConvert_public/releases/download/StableVersion/HaruaConvert.2024-10-14.zip)) 
 
 
 # 最近の更新
