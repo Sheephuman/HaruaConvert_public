@@ -14,7 +14,6 @@ Windows10以降、**.net Framework8以降**がインストールされている�
 フレームワーク：https://dotnet.microsoft.com/ja-jp/download/dotnet/8.0#:~:text=.NET%208.0%20d<br>
 SDK 8.0.403for Windowsのダウンロード(x64)：https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/sdk-8.0.403-windows-x64-installer
 
-フレームワーク不要の自己完結型も用意するつもりです（ファイルサイズがデカい）。<br>
 <br>
 WPF/C# で制作しています。<br>
 aviutlのLog表示の挙動を取り入れてます<br>
@@ -22,7 +21,15 @@ aviutlのLog表示の挙動を取り入れてます<br>
 元ネタは　Twitter用に動画変換するヤツ([2016_twitter_convert](https://cloth.moe/2016_twitter_convert))（2019）　で、ffmpegに渡すパラメータを随時変更出来、bitrate指定により動画圧縮まで可能にします。
 ~~最近も誰かに言われたけど別にバグだらけという訳ではない(笑)~~
 
-使用上の注意点
+# download
+
+[Stable Version (v1.5.0)](https://github.com/Sheephuman/HaruaConvert_public/releases/download/StableVersion/HaruaConvert.2024-10-14.zip)
+
+### フレームワーク不要の自己完結型
+[HaruaConvert-self-contained-2024-10-14.zip](https://drive.google.com/file/d/1OtjINsQingYe8lReX_xIfchCeA60pfxQ/view?usp=sharing)
+
+
+# 使用上の注意点
 **HaruaConvert.exe、ffmpeg.exeにファイルのアクセス許可**
 出力先のフォルダに**書き込み権限**を与えてください。
 尚、**管理者権限ではD＆Dが効きません**
@@ -62,9 +69,6 @@ c.パラメーターを100個まで保存しておけます。<br>
 
 2024/8/17　開発版<br>
 　
-## Download
-
-[Stable Version(v1.5.0)](HaruaConvert.2024-10-14.zip)](https://github.com/Sheephuman/HaruaConvert_public/releases/download/StableVersion/HaruaConvert.2024-10-14.zip)) 
 
 
 # 最近の更新
